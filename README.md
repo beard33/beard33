@@ -1,4 +1,3 @@
-### Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 📚 I'm a M.Sc. student in computer engineering @University of Parma<br>
 🔭 I’m currently working as Java Software Engineer in Milan<br>
